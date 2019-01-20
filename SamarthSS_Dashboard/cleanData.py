@@ -3,7 +3,7 @@ import pandas as pd
 import re
     
 # reading csv file 
-data = pd.read_csv("raw_data.csv",parse_dates=['InspectionDate'],dayfirst=True)
+data = pd.read_csv("raw_data/export_latest.csv",parse_dates=['InspectionDate'],dayfirst=True)
 
 data.dropna(inplace = True) 
 
@@ -59,6 +59,6 @@ data_combined["InspectionDate"] = data_combined["InspectionDate"].dt.strftime('%
 data_combined["InspectionDate"] = pd.to_datetime(data_combined["InspectionDate"])
 
 #exporting to new csv
-data_combined.to_csv("final_output_data_clean.csv", encoding='utf-8',index=False)
+data_combined.to_csv("clean_data/export_latest_clean.csv", encoding='utf-8',index=False)
 
 
