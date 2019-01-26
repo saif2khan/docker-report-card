@@ -1,0 +1,3 @@
+type=command
+command=mysql -uroot -ppassword  metabase -e "LOAD DATA LOCAL INFILE  '/root/metabase/export.csv' into table report_card FIELDS TERMINATED BY ',' ENCLOSED BY '' LINES TERMINATED BY '\\n' IGNORE 1 LINES;"
+dependencies=deletetable

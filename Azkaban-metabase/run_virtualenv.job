@@ -1,0 +1,3 @@
+command=bash run_command_in_venv.sh myvenv "python3 testscript.py"
+dependencies=setup_virtualenv
+type=command
