@@ -1,0 +1,27 @@
+@FinalFields, false
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Boolean, true, true, true, true, java.lang.Boolean/476441737, 476441737
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.Long, true, true, true, true, java.lang.Long/4227064769, 4227064769
+java.lang.Number, true, false, true, false, java.lang.Number/300033342, 300033342
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.ArrayList, true, true, true, true, java.util.ArrayList/4159755760, 4159755760
+org.opendatakit.aggregate.client.exception.FormNotAvailableException, true, true, false, false, org.opendatakit.aggregate.client.exception.FormNotAvailableException/4045162950, 4045162950
+org.opendatakit.aggregate.client.exception.RequestFailureException, true, true, false, false, org.opendatakit.aggregate.client.exception.RequestFailureException/3044001568, 3044001568
+org.opendatakit.aggregate.client.filter.ColumnFilter, true, true, true, true, org.opendatakit.aggregate.client.filter.ColumnFilter/1192942889, 1192942889
+org.opendatakit.aggregate.client.filter.Filter, true, false, true, false, org.opendatakit.aggregate.client.filter.Filter/2635131717, 2635131717
+org.opendatakit.aggregate.client.filter.FilterGroup, true, true, true, true, org.opendatakit.aggregate.client.filter.FilterGroup/3596872347, 3596872347
+org.opendatakit.aggregate.client.filter.FilterService, false, false, false, false, _, 1393213618
+org.opendatakit.aggregate.client.filter.FilterSet, true, true, false, false, org.opendatakit.aggregate.client.filter.FilterSet/736941608, 736941608
+org.opendatakit.aggregate.client.filter.RowFilter, true, true, true, true, org.opendatakit.aggregate.client.filter.RowFilter/3109182722, 3109182722
+org.opendatakit.aggregate.client.submission.Column, true, true, true, true, org.opendatakit.aggregate.client.submission.Column/3385980461, 3385980461
+org.opendatakit.aggregate.constants.common.FilterOperation, true, true, true, true, org.opendatakit.aggregate.constants.common.FilterOperation/1533235097, 1533235097
+org.opendatakit.aggregate.constants.common.RowOrCol, true, true, true, true, org.opendatakit.aggregate.constants.common.RowOrCol/2631516408, 2631516408
+org.opendatakit.aggregate.constants.common.UIDisplayType, true, true, true, true, org.opendatakit.aggregate.constants.common.UIDisplayType/776342495, 776342495
+org.opendatakit.aggregate.constants.common.Visibility, true, true, true, true, org.opendatakit.aggregate.constants.common.Visibility/1520701845, 1520701845
+org.opendatakit.common.persistence.client.UIQueryResumePoint, true, true, true, true, org.opendatakit.common.persistence.client.UIQueryResumePoint/3475283961, 3475283961
+org.opendatakit.common.persistence.client.exception.DatastoreFailureException, true, true, false, false, org.opendatakit.common.persistence.client.exception.DatastoreFailureException/560457744, 560457744

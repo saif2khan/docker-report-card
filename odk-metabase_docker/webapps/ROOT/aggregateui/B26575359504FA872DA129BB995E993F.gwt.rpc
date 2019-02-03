@@ -1,0 +1,18 @@
+@FinalFields, false
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Boolean, true, true, true, true, java.lang.Boolean/476441737, 476441737
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.ArrayList, true, true, true, true, java.util.ArrayList/4159755760, 4159755760
+java.util.TreeMap, true, true, true, true, java.util.TreeMap/1493889780, 1493889780
+java.util.TreeSet, true, true, true, true, java.util.TreeSet/4043497002, 4043497002
+org.opendatakit.common.persistence.client.exception.DatastoreFailureException, true, true, false, false, org.opendatakit.common.persistence.client.exception.DatastoreFailureException/560457744, 560457744
+org.opendatakit.common.security.client.UserSecurityInfo, true, true, true, true, org.opendatakit.common.security.client.UserSecurityInfo/2764414039, 2764414039
+org.opendatakit.common.security.client.UserSecurityInfo$UserType, true, true, true, true, org.opendatakit.common.security.client.UserSecurityInfo$UserType/1423848080, 1423848080
+org.opendatakit.common.security.client.exception.AccessDeniedException, true, true, false, false, org.opendatakit.common.security.client.exception.AccessDeniedException/2724203263, 2724203263
+org.opendatakit.common.security.client.security.admin.SecurityAdminService, false, false, false, false, _, 3880084889
+org.opendatakit.common.security.common.GrantedAuthorityName, true, true, true, true, org.opendatakit.common.security.common.GrantedAuthorityName/2617083437, 2617083437
