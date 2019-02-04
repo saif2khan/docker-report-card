@@ -1,16 +1,15 @@
-*Before running Aggregate for the first time, prepare the database container with:
+**Before running application for the first time, prepare the database container with:**
 
-docker-compose run --rm db
+`docker-compose run --rm db`
 
-*Press ctrl+c when you see the message "PostgreSQL init process complete; ready for start up"
-*Start Aggregate and Metabase with:
+Press ctrl+c when you see the message "PostgreSQL init process complete; ready for start up"
 
-docker-compose up
+**Start Aggregate and Metabase with:**
 
-*Access Aggregate at http://localhost:8080
-*Access Metabase at http://localhost:3000
+`docker-compose up`
 
-*Stop Docker by pressing ctrl+c
+Access Aggregate at http://localhost:8080
+Aggregate username:administrator password:aggregate
 
-***Aggregate username: administrator password: aggregate
-***Metabase: Host: db Port: 5432 Database: aggregate User: aggregate Password: aggregate
+Access Metabase at http://localhost:3000
+Metabase Host:db Port:5432 Database:aggregate User:aggregate Password:aggregate
