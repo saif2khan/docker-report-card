@@ -1,0 +1,11 @@
+# Module aggregateui
+# RPC service class, partial path of RPC policy file
+com.google.gwt.user.client.rpc.XsrfTokenService, E1EF26ED6384B9AF4934C71870F2E259.gwt.rpc
+org.opendatakit.aggregate.client.form.FormService, 192A98DD5E4C5E4DB58C21527BEC2A9A.gwt.rpc
+org.opendatakit.common.security.client.security.admin.SecurityAdminService, B26575359504FA872DA129BB995E993F.gwt.rpc
+org.opendatakit.aggregate.client.externalserv.ServicesAdminService, 4037DF548E9D352758E11C61B2A255F0.gwt.rpc
+org.opendatakit.aggregate.client.filter.FilterService, 3C7CE0CB8DDCFA071C718437A0F0DC23.gwt.rpc
+org.opendatakit.aggregate.client.form.FormAdminService, CC9423A6001CCCDF4C9DAB934936553B.gwt.rpc
+org.opendatakit.common.security.client.security.SecurityService, 8BA7D32BAC7CD06E14A45AC6F95563DB.gwt.rpc
+org.opendatakit.aggregate.client.preferences.PreferenceService, CF5E101B23BAF7C145A83889AC883F6B.gwt.rpc
+org.opendatakit.aggregate.client.submission.SubmissionService, 2976116AB591DEB694438837009B2FB8.gwt.rpc

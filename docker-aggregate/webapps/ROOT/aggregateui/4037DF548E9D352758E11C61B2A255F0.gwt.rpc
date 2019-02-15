@@ -1,0 +1,24 @@
+@FinalFields, false
+com.google.gwt.i18n.shared.impl.DateRecord, true, true, false, false, com.google.gwt.i18n.shared.impl.DateRecord/3173882066, 3173882066
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Boolean, true, true, false, false, java.lang.Boolean/476441737, 476441737
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.sql.Date, true, true, false, false, java.sql.Date/730999118, 730999118
+java.sql.Time, true, true, false, false, java.sql.Time/1816797103, 1816797103
+java.sql.Timestamp, true, true, false, false, java.sql.Timestamp/3040052672, 3040052672
+java.util.Date, true, true, false, false, java.util.Date/3385151746, 3385151746
+org.opendatakit.aggregate.client.exception.FormNotAvailableException, true, true, false, false, org.opendatakit.aggregate.client.exception.FormNotAvailableException/4045162950, 4045162950
+org.opendatakit.aggregate.client.exception.RequestFailureException, true, true, false, false, org.opendatakit.aggregate.client.exception.RequestFailureException/3044001568, 3044001568
+org.opendatakit.aggregate.client.externalserv.ExternServSummary, true, true, false, false, org.opendatakit.aggregate.client.externalserv.ExternServSummary/2485774806, 2485774806
+[Lorg.opendatakit.aggregate.client.externalserv.ExternServSummary;, true, true, false, false, [Lorg.opendatakit.aggregate.client.externalserv.ExternServSummary;/3156912403, 3156912403
+org.opendatakit.aggregate.client.externalserv.ServicesAdminService, false, false, false, false, _, 4288256058
+org.opendatakit.aggregate.constants.common.BinaryOption, false, false, true, true, org.opendatakit.aggregate.constants.common.BinaryOption/390865497, 390865497
+org.opendatakit.aggregate.constants.common.ExternalServicePublicationOption, true, true, true, true, org.opendatakit.aggregate.constants.common.ExternalServicePublicationOption/721691427, 721691427
+org.opendatakit.aggregate.constants.common.ExternalServiceType, true, true, false, false, org.opendatakit.aggregate.constants.common.ExternalServiceType/460304088, 460304088
+org.opendatakit.aggregate.constants.common.OperationalStatus, true, true, false, false, org.opendatakit.aggregate.constants.common.OperationalStatus/156431760, 156431760
+org.opendatakit.common.persistence.client.exception.DatastoreFailureException, true, true, false, false, org.opendatakit.common.persistence.client.exception.DatastoreFailureException/560457744, 560457744
