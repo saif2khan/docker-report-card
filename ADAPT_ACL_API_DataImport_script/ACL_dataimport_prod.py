@@ -4,15 +4,15 @@ import time
 
 csvUserFilePath = "testUser.csv" # User data file path
 csvScopeFilePath = "testScope.csv" # Scope data file path
-csvScopeMappingFilePath = "testScopeMapping.csv" # User-Scope mapping file path
+csvScopeMappingFilePath = "testScopeMappingActual_Schemes_remaining.csv" # User-Scope mapping file path
 
 data = {}
 
 # main api url
-url = 'http://samagraacl.herokuapp.com/api/v1'
+url = 'http://164.100.141.221:8080/api/v1'
 
 # put your username/password here
-auth = ('root', 'admin')
+auth = ('adapt', 'callSIMBA@100only')
 
 #importing User data
 '''with open(csvUserFilePath, encoding='utf-8-sig') as csvFile:

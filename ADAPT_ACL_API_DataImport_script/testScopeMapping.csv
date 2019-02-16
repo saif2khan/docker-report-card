@@ -1,0 +1,4 @@
+﻿user_id,Username,scope_id,role
+111,schemeofficerPMFBY,5,READ
+222,schemeofficerPMFBY,6,READ
+333,schemeofficerPMFBY,7,READ-WRITE

@@ -1,0 +1,58 @@
+﻿user_id,Username,scope_id,role
+,schemeofficerPMFBY,2,READ
+,schemeofficerPMFBY,6,READ
+,schemeofficerPMFBY,3,"	READ-WRITE"
+,schemeofficerPMFBY,41,READ
+,schemeofficerPMFBY,4,READ
+,aic_hq,4,READ
+,aic_hq,26,READ
+,aic_hq,32,READ-WRITE
+,aic_hq,31,READ
+,chola-ms_hq,4,READ
+,chola-ms_hq,26,READ
+,chola-ms_hq,32,READ-WRITE
+,chola-ms_hq,31,READ
+,nic_hq,4,READ
+,nic_hq,26,READ
+,nic_hq,32,READ-WRITE
+,nic_hq,31,READ
+,uiic_hq,4,READ
+,uiic_hq,32,READ-WRITE
+,uiic_hq,26,READ
+,uiic_hq,31,READ
+,idbi bank_janpath bhubaneswar,33,READ-WRITE
+,idbi bank_janpath bhubaneswar,26,READ
+,idbi bank_janpath bhubaneswar,31,READ
+,idbi bank_janpath bhubaneswar,64,READ
+,hdfc_hq,4,READ
+,hdfc_hq,32,READ-WRITE
+,hdfc_hq,26,READ
+,hdfc_hq,31,READ
+,oriental insurance company_hq,4,READ
+,oriental insurance company_hq,32,READ-WRITE
+,oriental insurance company_hq,26,READ
+,oriental insurance company_hq,31,READ
+,royal sundaram_hq,4,READ
+,royal sundaram_hq,32,READ-WRITE
+,royal sundaram_hq,26,READ
+,royal sundaram_hq,31,READ
+,tata aig_hq,4,READ
+,tata aig_hq,32,READ-WRITE
+,tata aig_hq,26,READ
+,tata aig_hq,31,READ
+,reliance gic_hq,4,READ
+,reliance gic_hq,32,READ-WRITE
+,reliance gic_hq,26,READ
+,reliance gic_hq,31,READ
+,idbi bank_berhampur,56,READ
+,idbi bank_berhampur,33,READ-WRITE
+,idbi bank_berhampur,26,READ
+,idbi bank_berhampur,31,READ
+,idbi bank_college square cuttack,52,READ
+,idbi bank_college square cuttack,33,READ-WRITE
+,idbi bank_college square cuttack,26,READ
+,idbi bank_college square cuttack,31,READ
+,idbi bank_paradip,57,READ
+,idbi bank_paradip,33,READ-WRITE
+,idbi bank_paradip,26,READ
+,idbi bank_paradip,31,READ
